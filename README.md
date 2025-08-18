@@ -19,7 +19,9 @@
 
 ## 如何使用
 
-1.  将脚本保存为 `downloader.py` (或您喜欢的任何名字)。
+1.  将脚本 `downloader.py` 下载。
+        ```bash
+    wget https://raw.githubusercontent.com/anjwee/yt-dlp-vps/refs/heads/main/downloader.py
 2.  在终端中给脚本添加执行权限：
     ```bash
     chmod +x downloader.py
@@ -29,7 +31,7 @@
     python3 downloader.py
     ```
 4.  根据提示输入文件名和目标 URL。
-5.  在“高级下载选项”菜单中，根据您的需求配置参数（例如，为公开的 YouTube 视频设置 Player Client 为 `ios`）。
+5.  在“高级下载选项”菜单中，根据您的需求配置参数（例如，为公开的 YT 视频设置 Player Client 为 `ios`）。
 6.  进入“功能选择”菜单，选择您想要执行的操作。
 
 ## 配置
