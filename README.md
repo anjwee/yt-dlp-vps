@@ -20,8 +20,9 @@
 ## 如何使用
 
 1.  将脚本 `downloader.py` 下载。
-        ```bash
+    ```bash
     wget https://raw.githubusercontent.com/anjwee/yt-dlp-vps/refs/heads/main/downloader.py
+    ```
 2.  在终端中给脚本添加执行权限：
     ```bash
     chmod +x downloader.py
