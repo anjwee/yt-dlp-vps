@@ -41,6 +41,8 @@
 6.  进入“功能选择”菜单，选择您想要执行的操作。
 7.  输入两个文件名（用','逗号隔开)'音频名,视频名'必须用英文
 
+![适合国内使用](https://telegraph-image-btj.pages.dev/file/AgACAgUAAyEGAAS2iY3HAAMDaKLQPjEnoxIV3Q2dR1mJ-XJ4su4AAnrEMRuJDhhVx2Ab2AZyQFQBAAMCAAN5AAM2BA.png)
+
 ## 配置
 
 脚本顶部的路径变量可以根据您的需求进行修改：
