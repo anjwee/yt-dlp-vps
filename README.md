@@ -18,7 +18,7 @@
 1.  **Python 3**
 2.  **yt-dlp**: [官方安装指南](https://github.com/yt-dlp/yt-dlp#installation)
     ```bash    
-pip3 install yt-dlp   
+    pip3 install yt-dlp   
     ```
 3.  **ffmpeg**: [官方下载页面](https://ffmpeg.org/download.html) (对于合并文件和格式转换是必需的)
 
