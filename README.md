@@ -42,9 +42,9 @@
 7.  输入两个文件名（用','逗号隔开)'音频名,视频名'必须用英文
 
 ![适合国内使用](images/1.png)
-(images/2.png)
-(images/3.png)
-(images/4.png)
+![适合国内使用](images/2.png)
+![适合国内使用](images/3.png)
+![适合国内使用](images/4.png)
 
 ## 配置
 
