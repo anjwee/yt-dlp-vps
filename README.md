@@ -22,8 +22,13 @@
     ```
     ```bash
     apt install ffmpeg -y
-    ``` 
-3.  **ffmpeg**: [官方下载页面](https://ffmpeg.org/download.html) (对于合并文件和格式转换是必需的)
+    ```
+    强制更新
+    ```bas
+    pip3 install --upgrade yt-dlp
+    ```
+    
+4.  **ffmpeg**: [官方下载页面](https://ffmpeg.org/download.html) (对于合并文件和格式转换是必需的)
 
 ## 如何使用
 
